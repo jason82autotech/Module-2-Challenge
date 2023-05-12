@@ -166,9 +166,7 @@ header nav ul li a:hover {
     color: var(--primary);
     padding: 10px;
 }
-/* my work section styling end */
 
-/* contact me section styling start */
 footer {
     display: flex;
     justify-content: space-between;
