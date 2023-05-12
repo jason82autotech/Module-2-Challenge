@@ -106,4 +106,4 @@ You are required to submit BOTH of the following for review:
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
 
-Here is a link to my deployed application 
+Here is a link to my deployed application; https://jason82autotech.github.io/Module-2-Challenge/
